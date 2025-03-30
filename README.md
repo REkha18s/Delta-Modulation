@@ -30,7 +30,7 @@ plt.grid()
 plt.show()
 ```
 # Output Waveform
-![image](https://github.com/user-attachments/assets/778b3c77-650f-4e30-a32a-199c511fe104)
+![WhatsApp Image 2025-03-30 at 18 10 08_3d1f438f](https://github.com/user-attachments/assets/f69c72b4-dd4c-468a-8757-d6ba1a08f2c1)
 
 # Results
 The analog signal was successfully converted using Delta Modulation. The signal was approximated using a stepwise function based on delta-step adjustments. The Delta Modulated waveform was observed, demonstrating the tracking process
